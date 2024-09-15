@@ -1,11 +1,10 @@
 import './App.css'
-import { SuperEmoji } from "super-emoji"
 
 function App() {
-
+  
   return (
     <>
-      <SuperEmoji emoji={"hello"}/>
+      <h1>Vite + React</h1>
     </>
   )
 }
